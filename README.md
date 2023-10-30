@@ -4,7 +4,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">SwiftUI Pratice</h3>
+  <h3 align="center">SwiftUI</h3>
   <p align="center">
     SwiftUI Project 
   </p>
@@ -31,9 +31,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.32.png" width="248">
-  <img src="[https://github.com/Dwashi2/swift-perfil/blob/main/2.png](https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.36.png)" width="248">
-  <img src="[https://github.com/Dwashi2/swift-perfil/blob/main/3.png](https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.40.png)" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/RestartUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-10-29%20at%2016.07.02.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/RestartUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-10-29%20at%2016.06.57.png" width="248">
 </p>
  
  
@@ -45,7 +44,7 @@ It's a simple app, only to study SwiftUI
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file Hike.xcodeproj
+Open the file RestartUI.xcodeproj
 
 ### Prerequisites
 
