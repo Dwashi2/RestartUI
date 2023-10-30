@@ -49,6 +49,7 @@ Open the file RestartUI.xcodeproj
 ### Prerequisites
 
 * Xcode 12.4
+* iOS 15.0 or more
 
 <!-- CONTACT -->
 ## Contact
