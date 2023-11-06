@@ -53,3 +53,5 @@ Open the file RestartUI.xcodeproj
 
 <!-- CONTACT -->
 ## Contact
+
+danielvertigo@hotmail.com
